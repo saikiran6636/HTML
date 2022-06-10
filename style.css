@@ -1,0 +1,156 @@
+
+
+.container{
+    background-color: darkblue;
+    height:170px;
+    color: aliceblue;
+    margin:  0px 0px 0px 0px ;
+    
+}
+.container2{
+    height: 350px;
+    background-image: url('vec.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container3{
+    border: 2px solid blue;
+    height: 300px;
+    margin: 0px 80px 0px 80px;
+    background-color: white;
+}
+.container4{
+    display: flex;
+    height: 200px;
+}
+.container5{
+   
+    margin: 150px;
+    height: 500px;
+    display: flex;
+    background-color: gainsboro;
+}
+#h1{
+    font-size: 80px;
+    position: absolute;
+    left: 290px;
+    
+}
+#h2{
+    font-size: 30px;
+    position: absolute;
+    left: 570px;
+}
+#h3{
+    font-size: 20px;
+    position: absolute;
+    left: 590px;
+    top: 45px;
+}
+#h4{
+    font-size: 15px;
+    position: absolute;
+    left: 620px;
+    top: 70px;
+}
+#h5{
+
+    position: absolute;
+    left: 180px;
+    top: 20px;
+}
+ul li{
+    margin: 0px 2px 0px 2px;
+    float: left;
+    width: 100px;
+    list-style-type: none;
+    position: relative;
+     top: 120px;
+     border: 1px solid brown;
+     border-top: 0px solid darkblue;
+     border-bottom: 0px solid darkblue;
+     border-right: 0px solid darkblue;
+     text-align: center;
+    
+}
+li:hover{
+    background-color:antiquewhite;
+    color:blueviolet;
+}
+h2{
+    margin-left: 80px;
+    
+}
+.sec1{
+    margin: 12px 12px 3px 12px;
+    width: 33%;
+    background-color: white;
+    background-image: url('vision.png');
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: center;
+    
+}
+.sec2{
+   background-image: url('mission.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 100px;
+    margin: 12px 12px 3px 12px;
+    width: 33%;
+    background-color: white;
+}
+.sec3{
+   background-image: url('goal.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 170px;
+    margin: 12px 12px 3px 12px;
+    width: 33%;
+    background-color: white;
+}
+header{
+    text-align: center;
+    height:150px ;
+    line-height: 330px;
+   
+}
+p{
+    text-align: justify;
+    margin: 0px 10px 0px 10urlpx;
+    padding: 20px;
+}
+#temp1{
+   
+    height: 466px;
+    width: 400px;
+    margin: 15px 20px 25px 20px;
+    
+    background-image: url('madam.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}#temp2{
+    
+    height: 466px;
+    width: 500px;
+    margin: 5px 10px 5px 20px;
+}
+.container6{
+    background-color: aqua;
+    height: 300px;
+}
+#footer{
+    text-align: center;
+    font-size: 60px;
+}
+#last1{
+    position: relative;
+    left: 160px;
+    top: 30px;
+}
+#last2{
+    position: relative;
+    left: 460px;
+    top: 10px;
+}
